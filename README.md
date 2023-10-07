@@ -62,7 +62,7 @@
   
    ---
 
-### :hammer_and_wrench: Languages and Tools :
+ :hammer_and_wrench: Languages and Tools :
 
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=red)
 ![Qa_Theory](https://img.shields.io/badge/Qa_Theory-316192?style=for-the-badge&logo=Qa_Theory&logoColor=white)
@@ -75,11 +75,11 @@
 
    --- 
 
- ---
-
 :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=UlyanaVer&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+
+   ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlyanaVer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
