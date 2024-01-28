@@ -18,8 +18,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
      </div>
- :woman_technologist: About Me :
- I am a QA fullstack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+ :woman_technologist: About Me :  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ I am a QA fullstack from Russia.
  
   --- 
   
